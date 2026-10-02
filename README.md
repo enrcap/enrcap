@@ -1,46 +1,45 @@
-<h1 align="center">Hola, soy Enrique Capella Magallón 👋</h1>
+<h1 align="center">Hi, I'm Enrique Capella Magallón 👋</h1>
 
-<h3 align="center">Matemáticas · Datos · Inteligencia Artificial</h3>
+<h3 align="center">Artificial Intelligence · Machine Learning · Quantitative Finance</h3>
 
 <p align="center">
-  Estudiante de Ingeniería Matemática e Inteligencia Artificial<br>
-  <strong>ICAI · Universidad Pontificia Comillas</strong>
+  Mathematical Engineering &amp; Artificial Intelligence Student<br>
+  <strong>ICAI · Comillas Pontifical University</strong>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/enrique-capella-magall%C3%B3n-7b262b394/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Contactar en LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Contact me on LinkedIn">
   </a>
   <a href="https://github.com/enrcap?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explorar mis repositorios">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Browse my repositories">
   </a>
-  <img src="https://img.shields.io/badge/Buscando_pr%C3%A1cticas-147D64?style=for-the-badge" alt="Buscando prácticas">
 </p>
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 About Me
 
-En mis proyectos conecto las matemáticas con problemas concretos: analizar datos, construir modelos predictivos y diseñar algoritmos que planifican rutas o toman decisiones bajo incertidumbre.
+In my academic projects, I apply mathematics and programming to data analysis, predictive modeling, and intelligent agents that make decisions under uncertainty.
 
-- **Datos y machine learning:** preparación de datos, clasificación, regresión y clustering.
-- **Algoritmos e IA:** grafos, búsqueda, inferencia bayesiana y procesos de decisión de Markov.
-- **Objetivo actual:** encontrar prácticas donde aplicar mi formación, aportar a un equipo y seguir aprendiendo.
+- **Main interest:** artificial intelligence, especially machine learning and intelligent agents.
+- **Also interested in:** quantitative finance and the application of mathematical models and data to finance.
+- **Applied knowledge:** graph algorithms, search, Bayesian inference, and Markov decision processes.
 
 ---
 
-## 💻 Tecnologías y herramientas
+## 💻 Tech Stack & Tools
 
-Tecnologías utilizadas en mis proyectos académicos:
+Technologies used in my academic projects:
 
-**Programación, datos y aprendizaje automático**
+**Programming, Data & Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-BF5700?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**Bases de datos**
+**Databases**
 
 ![SQL](https://img.shields.io/badge/SQL-3154A5?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -48,13 +47,13 @@ Tecnologías utilizadas en mis proyectos académicos:
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 ![Cypher](https://img.shields.io/badge/Cypher-26344A?style=flat-square)
 
-**Visualización**
+**Visualization**
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-446B8F?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power_BI-8B6508?style=flat-square)
 
-**Desarrollo**
+**Development**
 
 ![Git](https://img.shields.io/badge/Git-B9432C?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -63,19 +62,17 @@ Tecnologías utilizadas en mis proyectos académicos:
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured Projects
 
-| Proyecto | Qué puedes encontrar |
+| Project | What You Can Explore |
 | :--- | :--- |
-| **[Predicción del abandono y rendimiento académico](https://github.com/enrcap/student-academic-performance)** | Análisis de 4.424 estudiantes, modelos propios de kNN y regresión, validación cruzada y exploración de perfiles con PCA y KMeans. |
-| **[Análisis de reseñas de Amazon](https://github.com/enrcap/amazon-reviews-databases)** | Integración de MySQL, MongoDB y Neo4j para consultar reseñas, visualizar relaciones y recomendar productos según su popularidad. |
-| **[Planificador de rutas de Madrid](https://github.com/enrcap/madrid-route-planner)** | Dijkstra propio sobre una red de OpenStreetMap, comparación de rutas y visualización geográfica, con pruebas frente a NetworkX. |
-| **[Buscando al Coronel Kurtz: agentes de IA](https://github.com/enrcap/kurtz-ai-agents)** | Agentes que deciden con información parcial mediante razonamiento lógico, BFS, A*, inferencia bayesiana y Value Iteration. |
+| **[Student Dropout & Academic Performance](https://github.com/enrcap/student-academic-performance)** | Analysis of 4,424 students using custom kNN and regression implementations, cross-validation, and student profile exploration with PCA and KMeans. |
+| **[Amazon Reviews Analysis](https://github.com/enrcap/amazon-reviews-databases)** | Integration of MySQL, MongoDB, and Neo4j to query reviews, visualize relationships, and recommend products based on popularity. |
+| **[Madrid Route Planner](https://github.com/enrcap/madrid-route-planner)** | Dijkstra implemented from scratch on an OpenStreetMap network, route comparison, and geographic visualization, with tests against NetworkX. |
+| **[Finding Colonel Kurtz: AI Agents](https://github.com/enrcap/kurtz-ai-agents)** | Agents that make decisions with partial information using logical reasoning, BFS, A*, Bayesian inference, and Value Iteration. |
 
 ---
 
-## 🤝 Contacto
+## 📫 Contact
 
-Estoy buscando **oportunidades de prácticas** para aplicar mis conocimientos de programación, datos e inteligencia artificial.
-
-**[Hablemos en LinkedIn →](https://www.linkedin.com/in/enrique-capella-magall%C3%B3n-7b262b394/)**
+**[LinkedIn →](https://www.linkedin.com/in/enrique-capella-magall%C3%B3n-7b262b394/)**

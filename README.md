@@ -20,11 +20,9 @@
 
 ## 🧠 About Me
 
-In my academic projects, I apply mathematics and programming to data analysis, predictive modeling, and intelligent agents that make decisions under uncertainty.
+I'm a Mathematical Engineering and Artificial Intelligence student at ICAI, Comillas Pontifical University. My main interest is **artificial intelligence**, especially how models learn from data and how agents reason and make decisions under uncertainty. Through academic projects, I explore these questions by implementing algorithms from scratch, evaluating models, and building agents that work with partial information.
 
-- **Main interest:** artificial intelligence, especially machine learning and intelligent agents.
-- **Also interested in:** quantitative finance and the application of mathematical models and data to finance.
-- **Applied knowledge:** graph algorithms, search, Bayesian inference, and Markov decision processes.
+I'm also interested in **quantitative finance**, particularly where mathematical modeling and AI meet financial analysis and decision-making.
 
 ---
 
